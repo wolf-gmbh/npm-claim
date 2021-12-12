@@ -1,0 +1,9 @@
+{
+  "name": "@wolf-gmbh/claim",
+  "version": "0.0.1",
+  "description": "Empty project to claim scope",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wolf-gmbh/npm-claim.git"
+  }
+}
